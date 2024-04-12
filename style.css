@@ -48,7 +48,7 @@ body {
   color: #000000;
   text-align: left;
 	position:relative;
-	height: 60%;
+	height: 100%;
 }
 .overlay {
     position:absolute;
@@ -95,10 +95,5 @@ li span {
 .emoji span {
   font-size: 4rem;
   padding: 0 .5rem;
-}
-
-.shirt {
-text-align: left;
-	align:left;
 }
 
