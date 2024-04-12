@@ -46,10 +46,9 @@ body {
 
 .container {
   color: #000000;
-  margin: 0 auto;
-  text-align: center;
+  text-align: left;
 	position:relative;
-	height: 80%;
+	height: 60%;
 }
 .overlay {
     position:absolute;
@@ -99,6 +98,7 @@ li span {
 }
 
 .shirt {
-	width: 		inherit
+text-align: left;
+	align:left;
 }
 
